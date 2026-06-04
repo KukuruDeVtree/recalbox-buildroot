@@ -1,4 +1,4 @@
-cheats = 71 
+cheats = 72 
 
 cheat0_desc = "Switch F/X On To Activate Infinite P-Switch Time"
 cheat0_code = "7E14ADFF"
@@ -284,3 +284,6 @@ cheat70_desc = "Disable Mosaic Effect "
 cheat70_code = "7E0DB000"
 cheat70_enable = false 
 
+cheat71_desc = "Charging chuck on stack"
+cheat70_code = "7E0DC2D7"
+cheat70_enable = false 
